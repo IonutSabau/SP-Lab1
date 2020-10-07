@@ -19,7 +19,7 @@ public class Book {
         this.images.add(nameOfImage);
     }
     public void createNewTable(String nameOfTable){
-        this.images.add(nameOfTable);
+        this.tables.add(nameOfTable);
     }
 
     public String getTitle() {
